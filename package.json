@@ -1,0 +1,16 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "My submission code for Advent of Code 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "vitest",
+    "advent-of-code"
+  ],
+  "author": "Runyasak Chaengnaimuang",
+  "license": "ISC"
+}
