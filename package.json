@@ -15,6 +15,7 @@
   "author": "Runyasak Chaengnaimuang",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^22.10.2",
     "vitest": "^2.1.8"
   }
 }
