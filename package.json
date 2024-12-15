@@ -4,7 +4,8 @@
   "description": "My submission code for Advent of Code 2024",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "vitest"
   },
   "keywords": [
     "typescript",
@@ -12,5 +13,8 @@
     "advent-of-code"
   ],
   "author": "Runyasak Chaengnaimuang",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^2.1.8"
+  }
 }
